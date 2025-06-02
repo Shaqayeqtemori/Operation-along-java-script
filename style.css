@@ -2,3 +2,18 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+h4{
+    color: blue;
+    margin-top: 20%;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    border: 5px solid red;
+}
+button:hover{
+    background-color: white;
+    color: black;
+
+}
