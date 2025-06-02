@@ -1,6 +1,6 @@
 // age checker 
 let nameofuser = "user of facebook";
-let agelenght = nameofuser .lenght ;
+let agelenght = nameofuser .length ;
 if (agelenght > 18) {
     console.log("You can register!");
 }
